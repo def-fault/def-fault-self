@@ -1,3 +1,3 @@
-def fault(self):<br/>
+**def fault(self) :<br/>**
 uta utane = defoko<br/>
 return girl<br/>
