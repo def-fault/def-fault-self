@@ -1,3 +1,3 @@
 **def fault(self) :<br/>**
-  uta utane = defoko<br/>
-  return girl<br/>
+  self.fault = True<br/>
+  return KR, JP, EN<br/>
